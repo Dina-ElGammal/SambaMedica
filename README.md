@@ -1,6 +1,6 @@
 # SambaMedica Project Prototype
 
-# Project Description
+## Project Description
 
 SambaMedica idea is to automate the process of generating medical scan image reports (such as X-rays, ultrasounds, or MRIs) using the power of Agentic AI on the SambaNova AI platform. 
 
@@ -12,6 +12,7 @@ The implementation of parallel threading with the vision models is crucial in re
 
 The system has been tested using various images related to different diseases, such as breast cancer and chest inflammation, as well as images showing no disease. The results from these tests have been promising, demonstrating the system's effectiveness.
 
+## Setup steps
 
 1.  Setup Environment
 
