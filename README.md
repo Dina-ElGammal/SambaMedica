@@ -1,4 +1,8 @@
 # SambaMedica Project Prototype
+<h3 align="center" style="color:red;">
+  © Dina El Gammal – This repository and its contents are for educational and demonstration purposes only.<br>
+  <strong>Commercial use is not permitted without written consent.</strong>
+</h3>
 
 ## Project Description
 
